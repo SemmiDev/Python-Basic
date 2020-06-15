@@ -1,0 +1,12 @@
+{
+  "name"  : "Sammi Aldhi Yanto",
+  "age"   : 19,
+  "specialist"  : "BackEnd Developer",
+  "programming" : ["Java","Python","Go"],
+  "database"    : ["PostgreSql","MySql","MongoDB"],
+  "media" : {
+    "facebook"  : "Al Dhy",
+    "instagram" : "_sammidev",
+    "github"    : "SemmiDev"
+  }
+}

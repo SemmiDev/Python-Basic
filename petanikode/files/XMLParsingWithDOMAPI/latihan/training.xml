@@ -1,0 +1,16 @@
+<?xml version="1.0" ?><admin>
+    <firstname>Sammi</firstname>
+    <lastname>dev</lastname>
+    <username>sammidev</username>
+    <password>mypass</password>
+    <secretkey>000</secretkey>
+    <address>Tinggam</address>
+
+    <major name="Teknik Informatika"/>
+    <major name="Sistem Informasi"/>
+    <major name="Manajemen Informatika"/>
+
+    <hobby name="Ngoding"/>
+    <hobby name="reading"/>
+    <hobby name="watching"/>
+<major name="mouse"/></admin>

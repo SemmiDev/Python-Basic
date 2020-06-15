@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><mahasiswa>
+    <nama>Sammi</nama>
+    <alamat>Lapau Durian</alamat>
+    <jurusan>Teknik Informatika</jurusan>
+
+    <hobi name="Blogging"/>
+    <hobi name="Membaca Buku"/>
+    <hobi name="Nonton Anime"/>
+    <hobi name="programming"/>
+</mahasiswa>
